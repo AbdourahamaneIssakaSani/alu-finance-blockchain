@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "transaction.h": "c",
+        "provided.h": "c"
+    }
+}
