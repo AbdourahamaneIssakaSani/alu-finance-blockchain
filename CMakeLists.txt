@@ -28,7 +28,7 @@ add_executable(BlockChainSummative
         blockchain/v0.3/blockchain_difficulty.c
         blockchain/v0.3/blockchain_serialize.c
         blockchain/v0.3/hash_matches_difficulty.c
-        cli/cli.c
+        cli/main.c
         cli/exit.c
         cli/cli.h
         cli/help.c
